@@ -1,0 +1,28 @@
+name: eyer8
+favicon: null
+layout_spectrum: 0.11245492310263216
+typography_spectrum: 0.5956942369230092
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.2831640746444464
+  lightness: 0.4908755354117602
+  saturation: 0.5585623241495341
+  rhythmicContrast: 0.7550117215141654
+purpose: []
